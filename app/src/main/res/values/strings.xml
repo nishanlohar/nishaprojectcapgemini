@@ -1,0 +1,32 @@
+<resources >
+    <string name="app_name">DigiTechHealthcare</string>
+    <string name="specialist">specialist</string>
+    <string name="Neurologist">Neurologist</string>
+    <string name="Psychiatrist">Psychiatrist</string>
+    <string name="Surgeon">Surgeon</string>
+    <string name="Cardiologist">Cardiologist</string>
+    <string name="Dentist">Dentist</string>
+    <string name="Gynecologist">Gynecologist</string>
+    <string name="pediatrics">pediatrics</string>
+
+    <string name="education">education</string>
+    <string name="B.Sc.Nursing">B.Sc.Nursing</string>
+    <string name="PostBasicB.Sc.Nursing">Post  BasicB.Sc.Nursing</string>
+    <string name="DiplomaNursing">Diploma Nursing</string>
+
+
+    <string-array name="specialist_doctor">
+        <item>@string/Neurologist</item>
+        <item>@string/Psychiatrist</item>
+        <item>@string/Surgeon</item>
+        <item>@string/Cardiologist</item>
+        <item>@string/Dentist</item>
+        <item>@string/Gynecologist</item>
+        <item>@string/pediatrics</item>
+    </string-array>
+    <string-array name="education_nurse">
+        <item>@string/B.Sc.Nursing</item>
+        <item>@string/PostBasicB.Sc.Nursing</item>
+        <item>@string/DiplomaNursing</item>
+    </string-array>
+</resources>
